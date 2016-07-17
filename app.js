@@ -23,8 +23,8 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
 });
 
-/*boardModule.initBoard().then(function() {
+boardModule.initBoard().then(function() {
     motorModule.initMotors();
     servoModule.initServo();
-});*/
+});
 
