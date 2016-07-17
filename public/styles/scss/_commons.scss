@@ -1,0 +1,32 @@
+.main-container {
+    background-color: $color-white-1;
+    padding: 30px;
+}
+
+.container {
+    @include container;
+    background-color: $color-white;
+    border-radius: 4px;
+
+    &__title {
+        text-align: left;
+        padding: 10px 20px;
+        color: $color-white;
+        margin: 0;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+    }
+
+    &__content {
+        padding: 20px;
+        box-sizing: border-box;
+
+        &__title {
+            text-align: left;
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+    }
+}
+

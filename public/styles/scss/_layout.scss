@@ -1,0 +1,26 @@
+header,
+footer {
+    @include full;
+}
+
+.main-container {
+    @include container;
+}
+
+.container {
+    margin-bottom: gutter();
+}
+
+.col-1-3 {
+    @include span(7 of 20);
+    @include media-999px {
+        @include full;
+    }
+}
+
+.col-2-3 {
+    @include span(13 of 20 last);
+    @include media-999px {
+        @include full;
+    }
+}

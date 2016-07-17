@@ -1,0 +1,15 @@
+{
+  "name": "arduino-car-2",
+  "version": "0.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Dominik Filkus"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "susy": "~2.2.6",
+    "material-design-lite": "~1.0.6"
+  }
+}
