@@ -1,12 +1,12 @@
-# arduino-spybot
+# arduino-spybot-V2
 This experimental project focuses to build robots with Javascript using Johnny-Five framework. 
 This robot is the modified version of the original spybot. It has 4 wheels, less cables, more power, more stability.
 
 ### The robot itself
-![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot/master/arduino_spybot_V2.jpg)
+![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot-V2/master/arduino_spybot_V2.jpg)
 
 ### The control panel
-![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot/master/spybot_V2_panel.png)
+![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot-V2/master/spybot_V2_panel.png)
 
 ### Related video
 Soon
