@@ -14,11 +14,12 @@ Soon
 ### Hardware components
  - Arduino UNO
  - Motor/Stepper/Servo Shield V2
+ - 4 x DC 3-6V Gear Motor
+ - 4 x Arduino DC Motor Tires
  - A custom bluetooth shield with HC-06 JY-MCU
  - 8 AA Rechargable Battery plus holder
  - 1 x SM-S4306R Continous rotation servos
  - 1 x 70mm rubber wheel for cell phone mount
- - 4 x Arduino DC Motor Tires
  - Screws
  - Cell phone mount
  - Cell phone using as an IP camera with proper app
