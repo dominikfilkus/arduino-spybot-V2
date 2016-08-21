@@ -9,7 +9,7 @@ This robot is the modified version of the original spybot. It has 4 wheels, less
 ![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot-V2/master/spybot_V2_panel.png)
 
 ### Related video
-Soon
+https://www.youtube.com/watch?v=0qSykcF_Oeo
 
 ### Hardware components
  - Arduino UNO
