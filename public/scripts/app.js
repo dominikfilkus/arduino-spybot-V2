@@ -1,5 +1,5 @@
 import {moveWheels, stopWheels} from './wheelsControl';
-import {moveServo, stopServo} from './servoControl.js';
+import {moveServo, stopServo} from './servoControl';
 
 document.onkeydown = checkKeyDown;
 document.onkeyup = checkKeyUp;
