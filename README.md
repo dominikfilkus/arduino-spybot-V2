@@ -9,16 +9,17 @@ This robot is the modified version of the original spybot. It has 4 wheels, less
 ![alt tag](https://raw.githubusercontent.com/dominikfilkus/arduino-spybot-V2/master/spybot_V2_panel.png)
 
 ### Related video
-Soon
+https://www.youtube.com/watch?v=0qSykcF_Oeo
 
 ### Hardware components
  - Arduino UNO
  - Motor/Stepper/Servo Shield V2
+ - 4 x DC 3-6V Gear Motor
+ - 4 x Arduino DC Motor Tires
  - A custom bluetooth shield with HC-06 JY-MCU
  - 8 AA Rechargable Battery plus holder
  - 1 x SM-S4306R Continous rotation servos
  - 1 x 70mm rubber wheel for cell phone mount
- - 4 x Arduino DC Motor Tires
  - Screws
  - Cell phone mount
  - Cell phone using as an IP camera with proper app
